@@ -1,10 +1,7 @@
 ## DALN
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reusing-the-task-specific-classifier-as-a/domain-adaptation-on-imageclef-da)](https://paperswithcode.com/sota/domain-adaptation-on-imageclef-da?p=reusing-the-task-specific-classifier-as-a)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reusing-the-task-specific-classifier-as-a/domain-adaptation-on-office-31)](https://paperswithcode.com/sota/domain-adaptation-on-office-31?p=reusing-the-task-specific-classifier-as-a)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reusing-the-task-specific-classifier-as-a/domain-adaptation-on-office-home)](https://paperswithcode.com/sota/domain-adaptation-on-office-home?p=reusing-the-task-specific-classifier-as-a)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reusing-the-task-specific-classifier-as-a/domain-adaptation-on-visda2017)](https://paperswithcode.com/sota/domain-adaptation-on-visda2017?p=reusing-the-task-specific-classifier-as-a)
 
 This repo is the official PyTorch implementation of "Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation".

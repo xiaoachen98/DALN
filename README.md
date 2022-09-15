@@ -4,11 +4,11 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reusing-the-task-specific-classifier-as-a/domain-adaptation-on-office-home)](https://paperswithcode.com/sota/domain-adaptation-on-office-home?p=reusing-the-task-specific-classifier-as-a)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reusing-the-task-specific-classifier-as-a/domain-adaptation-on-visda2017)](https://paperswithcode.com/sota/domain-adaptation-on-visda2017?p=reusing-the-task-specific-classifier-as-a)
 
-This repo is the official PyTorch implementation of "Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation".
-
+This repo is the official PyTorch implementation of 
+[Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation.](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Reusing_the_Task-Specific_Classifier_as_a_Discriminator_Discriminator-Free_Adversarial_Domain_CVPR_2022_paper.html)
 ![](resources/figure1.png)
-### [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Reusing_the_Task-Specific_Classifier_as_a_Discriminator_Discriminator-Free_Adversarial_Domain_CVPR_2022_paper.html)
-By [Lin Chen](https://scholar.google.com/citations?user=-t92FH8AAAAJ&hl=zh-CN&oi=sra), Huaian Chen, [Xin Jin](https://scholar.google.com/citations?hl=en&user=byaSC-kAAAAJ), Zhixiang Wei
+
+
 
 ## News
 ### 2022.09.15 We are happy to announce that our new work [DDB](https://github.com/xiaoachen98/DDB.git) was accepted at NeurIPS2022✨

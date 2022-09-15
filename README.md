@@ -6,6 +6,7 @@ This repo is the official PyTorch implementation of "Reusing the Task-specific C
 By [Lin Chen](https://scholar.google.com/citations?user=-t92FH8AAAAJ&hl=zh-CN&oi=sra), Huaian Chen, [Xin Jin](https://scholar.google.com/citations?hl=en&user=byaSC-kAAAAJ), Zhixiang Wei
 
 ## News
+### 2022.09.15 We are happy to announce that our new work [DDB](https://github.com/xiaoachen98/DDB.git) was accepted at NeurIPS2022✨
 ### 2022.09.15 Release core code on github!
 
 ## Abstract

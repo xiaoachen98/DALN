@@ -23,7 +23,3 @@ class NuclearWassersteinDiscrepancy(nn.Module):
 
         loss = self.n_discrepancy(y_s, y_t)
         return loss
-
-
-if __name__ == '__main__':
-
